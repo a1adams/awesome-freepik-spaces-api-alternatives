@@ -1,7 +1,7 @@
 {
   "keyword": "freepik spaces api",
   "title": "Freepik Spaces API: current Magnific interfaces and alternatives",
-  "lastChecked": "2026-10-26",
+  "lastChecked": "2026-11-02",
   "capabilityChecks": [
     {
       "key": "restApi",
@@ -186,11 +186,11 @@
         "videoTools": true
       },
       "live": {
-        "stars": 143133,
-        "lastPush": "2026-10-26T12:52:32Z",
-        "latestRelease": "v0.42.1",
-        "latestReleaseDate": "2026-10-19",
-        "checkedAt": "2026-10-26"
+        "stars": 144616,
+        "lastPush": "2026-11-02T14:02:09Z",
+        "latestRelease": "v0.43.0",
+        "latestReleaseDate": "2026-10-27",
+        "checkedAt": "2026-11-02"
       }
     },
     {
